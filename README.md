@@ -2,7 +2,7 @@
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" padding-left="50" width="550" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="600" align="right">
 <br><br>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -58,7 +58,7 @@
 | Styling & Frameworks | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" /> |
 | Database |<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
 | Services & Tools|<a href="https://github.com/sakshampandit"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> |
-| Competitive Coding | <a href="https://leetcode.com/saksham2199/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/sakshampandit2199/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> <a href="https://www.codechef.com/users/sakshampandit"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/></a> |
+| Competitive Coding | <a href="https://leetcode.com/riyabansal1036/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/riyabansal13072001"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> |
 | IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />|
 | Hosting         | <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>|
 | Design Tools    | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
@@ -76,16 +76,13 @@
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| Ecommerce | [view](https://ecommerce-website-zeta-jade.vercel.app/signup) | [view](https://github.com/sakshampandit/Ecommerce_Website-Full-Stack) | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS`| 
-| Real Estate | [view](https://real-estate-website-sensei.vercel.app/) | [view](https://github.com/sakshampandit/Real-Estate) | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
-| Real Estate Agility | [view](https://magma-sensei.netlify.app/) | [view](https://github.com/sakshampandit/Real-Estate) |`JavaScript` `HTML5` `CSS3` |
-| Linkedln Clone | - | [view](https://github.com/sakshampandit/Linkedln) | `React.JS` `JavaScript` `CSS3`|
-| Cyberfiction | [view](https://sensei-cyberfiction.netlify.app/) | - | `HTML5` `JavaScript` `CSS3`|
-| Restuarant | [view](https://sensei-restuarant.netlify.app/) | - | `HTML5` `JavaScript` `CSS3`|
-| Ecommerce | [view](https://sensei-ecommerce-website.netlify.app/) | - | `HTML5` `JavaScript` `CSS3`|
-| Apple Vision Pro | [view](https://apple-vision007.netlify.app/) | - | `HTML5` `JavaScript` `CSS3`|
-| Travel WebSite | [view](https://heartfelt-malasada-544980.netlify.app/) | - | `HTML5` `JavaScript` `CSS3`|
-| Personal Portfolio | [view](https://sensei-portfolioo.netlify.app/) | - | `HTML5` `JavaScript` `CSS3`|
+| Ecommerce | [view](https://ecommerce-website-zeta-jade.vercel.app/signup) | [view](https://github.com/riyabansal1036/E_commerce_project) | `Next.js` `TypeScript` `React` `Firebase` `Tailwind CSS`| 
+| Crypto App | [view](https://cryptoapp-riya.vercel.app/) | - | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3` |
+| Linkedln Clone | [view](https://drive.google.com/file/d/1-HllAI5G4rcufow3bzBySx1RJdnaIl4f/view) | [view](https://github.com/riyabansal1036/Linkedin_clone) | `React.JS` `JavaScript` `CSS3`|
+| Watch Website | [view](https://riya-watch.netlify.app/) | - | `HTML5` `CSS3`|
+| Netflix Clone | [view](https://riya-netflix.netlify.app/) | - | `HTML5` `JavaScript` `CSS3`|
+|Coders Map| [view](https://drive.google.com/file/d/1swYx8oFJdrbxN0Ify6XrrJdd_RjNUmb1/view) | [view](https://github.com/riyabansal1036/Coders_map2) | `HTML5` `JavaScript` `CSS3`|
+| Personal Portfolio | [view](https://my-portfolio-riya.vercel.app/) | - | `HTML5` `JavaScript` `CSS3` `React`|
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -95,7 +92,7 @@
 # Competitive Stats
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/saksham2199?theme=light)](https://leetcode.com/saksham2199/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/riyabansal1036?theme=light)](https://leetcode.com/riyabansal1036/)
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="80%" alt="NUX_Octodex">
