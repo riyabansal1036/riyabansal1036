@@ -95,7 +95,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/riyabansal1036?theme=light)](https://leetcode.com/riyabansal1036/)
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="80%" alt="NUX_Octodex">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
 
 
 </details>                     
