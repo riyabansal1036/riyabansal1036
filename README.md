@@ -13,13 +13,13 @@
 
 <i>&nbsp; I am a keen learner.</i><br>
 
-👋 Greetings! It's great to have you here. I'm Saksham Pandit, an enthusiastic full-stack developer hailing from India.
+👋 Greetings! It's great to have you here. I'm Riya Bansal, an enthusiastic full-stack developer hailing from India.
 
 🎓 &nbsp; I'm pursuing  Bachelor of Technology with a degree in Computer Science and Engineering from [KIET Group of Institutions](https://www.kiet.edu/).
 
-🚀 &nbsp; I'm also part of several communities., my forte lies in exploring technologies like Nextjs with TypeScript to build awesome products.
+🚀 &nbsp; I'm also part of several communities.
 
-😄 &nbsp; When I'm not coding, you can find me immersing myself in the world of [beatbox](https://www.instagram.com/bbxindia/), making insightful stuff on [BBX INDIA](https://www.instagram.com/bbxindia/).
+
 
 </div>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -27,9 +27,9 @@
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/saksham2199/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br>
-  <a href="panditsaksham2199@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
-  <a href="https://www.instagram.com/sensei_bbx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sensei_Codes" ></a>
+  <a href="https://https://www.linkedin.com/in/riya-bansal-9555a4215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br>
+  <a href="riyabansal13072001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
+<!--   <a href="https://www.instagram.com/sensei_bbx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sensei_Codes" ></a> -->
 </div>
 <br>
 <br>
