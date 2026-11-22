@@ -15,7 +15,9 @@
 
 👋 Greetings! It's great to have you here. I'm Riya Bansal, an enthusiastic full-stack developer hailing from India.
 
-🎓 &nbsp; I'm pursuing  Bachelor of Technology with a degree in Computer Science and Engineering from [KIET Group of Institutions](https://www.kiet.edu/).
+I am a passionate Full Stack Developer with 3 years of professional experience in designing, developing, and maintaining scalable web applications using ASP.NET, C#, React.js, and Microsoft SQL Server.
+
+Currently working at Eicore Technologies, I have contributed to enterprise-level insurance applications, including Future Generali, Royal Sundaram, and SBI Claims Portal. My experience includes developing and enhancing business-critical modules, implementing backend APIs, managing database operations, and building efficient application workflows.
 
 🚀 &nbsp; I'm also part of several communities.
 
