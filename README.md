@@ -1,40 +1,24 @@
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ --> <!--- -- Animated Header ------------------------------------------------------------------------------------------------------------------------------- --> <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D24,100:F0B028&height=180&section=header&text=Riya%20Bansal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20" alt="Riya Bansal header" /> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F0B028&center=true&vCenter=true&width=720&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;ASP.NET+%7C+C%23+%7C+React.js+%7C+SQL+Server;3+Years+of+Enterprise+Experience;800%2B+DSA+Problems+Solved" alt="Typing animation" /> </div> <br> <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ --> <!--- -- About ME --------------------------------------------------------------------------------------------------------------------------------------- --> <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+About Me <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+<table> <tr> <td valign="top" width="58%">
 
-<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="600" align="right" height="500">
-<br><br>
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<i>I am a keen learner.</i>
 
-# About-me
-<div>
+👋 Hi, I'm Riya Bansal, a Full Stack Developer from India.
 
-<i>&nbsp; I am a keen learner.</i><br>
+I have 3 years of professional experience designing, developing and maintaining enterprise web applications using ASP.NET, C#, React.js and Microsoft SQL Server.
 
-👋 Greetings! It's great to have you here. I'm Riya Bansal, an enthusiastic full-stack developer hailing from India.
+💼 I currently work at Eicore Technologies (Gurugram) as a Software Development Engineer. I have contributed to enterprise insurance applications for Future Generali, Royal Sundaram and the SBI Claims Portal, building business-critical modules, backend APIs, database logic and end-to-end workflows.
 
-I am a passionate Full Stack Developer with 3 years of professional experience in designing, developing, and maintaining scalable web applications using ASP.NET, C#, React.js, and Microsoft SQL Server.
+🧠 I have solved 800+ Data Structures and Algorithms problems, and I was a Core Team Member of the GFG Student Chapter at KIET.
 
-Currently working at Eicore Technologies, I have contributed to enterprise-level insurance applications, including Future Generali, Royal Sundaram, and SBI Claims Portal. My experience includes developing and enhancing business-critical modules, implementing backend APIs, managing database operations, and building efficient application workflows.
+🚀 Always learning, always building.
 
-🚀 &nbsp; I'm also part of several communities.
-
-
-
-</div>
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/riya-bansal-9555a4215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br>
-  <a href="riyabansal13072001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
-<!--   <a href="https://www.instagram.com/sensei_bbx/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sensei_Codes" ></a> -->
-</div>
-<br>
-<br>
+<div align="left"> <a href="https://www.linkedin.com/in/riya-bansal-9555a4215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:riyabansal13072001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </div>
+</td>
+<td align="center" valign="middle" width="42%">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="100%" alt="Coding animation" />
+</td>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
